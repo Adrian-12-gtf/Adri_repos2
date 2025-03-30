@@ -1,6 +1,6 @@
 #Proyecto: Sistema de Inventario y Jugador
 
-Este proyecto contiene clases para manejar un sistema de inventario de productos y un sistema de salud para un jugador en un juego. A continuación, se describen los métodos implementados. enlace al proyecto: https://github.com/Adrian-12-gtf/Adri_repos2.git
+Este proyecto contiene clases para manejar un sistema de inventario de productos y un sistema de salud para un jugador en un juego. A continuación, se describen los métodos implementados.
 
 #Clases y Métodos
 
