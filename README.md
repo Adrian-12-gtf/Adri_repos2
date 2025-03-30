@@ -1,6 +1,6 @@
 #Proyecto: Sistema de Inventario y Jugador
 
-Este proyecto contiene clases para manejar un sistema de inventario de productos y un sistema de salud para un jugador en un juego. A continuación, se describen los métodos implementados.
+Este proyecto contiene clases para manejar un sistema de inventario de productos y un sistema de salud para un jugador en un juego. A continuación, se describen los métodos implementados. enlace al proyecto:
 
 #Clases y Métodos
 
@@ -45,3 +45,4 @@ El siguiente paso que llevé a cabo fue descargar Git para poder inicializar mi 
 "git commit -m "Comentario para describir el cambio realizado":" para confirmar todos los cambios efectuados.
 
 "git push -u origin main:" para enviarlo al repositorio remoto en la rama principal del proyecto.
+
